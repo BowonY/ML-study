@@ -1,0 +1,5 @@
+2016.03.01
+
+- today's discussion
+cost function
+gradient descent
